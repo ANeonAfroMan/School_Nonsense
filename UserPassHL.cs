@@ -174,7 +174,7 @@ namespace UserPassBlackjack
                     break;
                 else {
                     Console.Clear();
-                    Console.WriteLine("Please enter something that is in the program; 1 or 2.");
+                    Console.WriteLine("Please enter something that is in the program; 1, 2, or 3.");
                 }
             }
         }
